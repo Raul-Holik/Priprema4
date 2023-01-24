@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\Priprema4\Priprema4.2\Priprema4.2\bin\Debug\Priprema4.2.exe.config
+C:\Users\Osoba\Documents\Skola\Priprema4\Priprema4.2\Priprema4.2\bin\Debug\Priprema4.2.exe
+C:\Users\Osoba\Documents\Skola\Priprema4\Priprema4.2\Priprema4.2\bin\Debug\Priprema4.2.pdb
+C:\Users\Osoba\Documents\Skola\Priprema4\Priprema4.2\Priprema4.2\obj\Debug\Priprema4.2.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\Priprema4\Priprema4.2\Priprema4.2\obj\Debug\Priprema4.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\Priprema4\Priprema4.2\Priprema4.2\obj\Debug\Priprema4.2.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\Priprema4\Priprema4.2\Priprema4.2\obj\Debug\Priprema4.2.exe
+C:\Users\Osoba\Documents\Skola\Priprema4\Priprema4.2\Priprema4.2\obj\Debug\Priprema4.2.pdb

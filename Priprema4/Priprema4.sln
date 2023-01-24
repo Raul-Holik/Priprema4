@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Priprema4", "Priprema4\Priprema4.csproj", "{DA673894-ADE3-4798-92BC-C0576966932E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA673894-ADE3-4798-92BC-C0576966932E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA673894-ADE3-4798-92BC-C0576966932E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA673894-ADE3-4798-92BC-C0576966932E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA673894-ADE3-4798-92BC-C0576966932E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {874C4079-9EDF-4823-BC94-A91D606D3B27}
+	EndGlobalSection
+EndGlobal
